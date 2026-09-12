@@ -45,5 +45,5 @@ Não é necessário instalar programas ou dependências para visualizar o projet
 
 Desenvolvido por **Rodrigo Fagnani**.
 
-- GitHub: [github.com/rodfagnani](https://github.com/rodfagnani)
+- GitHub: [github.com/rodfagnani](https://github.com/Rodfagnani-dev)
 - E-mail: [rodfagnani@gmail.com](mailto:rodfagnani@gmail.com)
